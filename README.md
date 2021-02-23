@@ -1,2 +1,2 @@
 # CURD_Operation
-in this project, student store own data in nongod . if you want to get ,update ,delete. You can do it..
+in this project, student store own data in mongodb . if you want to get ,update ,delete. You can do it..
